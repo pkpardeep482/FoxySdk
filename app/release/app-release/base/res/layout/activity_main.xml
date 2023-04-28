@@ -1,0 +1,18 @@
+
+³
+;
+android*http://schemas.android.com/apk/res/android#
+4
+app'http://schemas.android.com/apk/res-auto#LinearLayout"`
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"(ô„2:0ÿÿÿÿÿÿÿÿÿ"a
+*http://schemas.android.com/apk/res/androidlayout_heightmatch_parent"(õ„2:0ÿÿÿÿÿÿÿÿÿ"R
+*http://schemas.android.com/apk/res/androidorientationvertical"(Ä„2:0*–
+Button"L
+*http://schemas.android.com/apk/res/androidgravitycenter"(¯„2:8"Q
+*http://schemas.android.com/apk/res/android
+background#ff0"(Ô„2:`€şÿÿ"`
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"(ô„2:0ÿÿÿÿÿÿÿÿÿ"Q
+*http://schemas.android.com/apk/res/androidlayout_height40dp"(õ„2:hP"]
+*http://schemas.android.com/apk/res/androidid@+id/button"(Ğ„2
+Ù€ ø	id/button0"N
+*http://schemas.android.com/apk/res/androidtextLoad Foxy Dynamically(Ï‚„'#

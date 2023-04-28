@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/foxy_dynamic" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/foxy_native_module" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/@react-native-clipboard/clipboard/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/@react-native-community/blur/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/@react-native-community/geolocation/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/@react-native-community/image-editor/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/@react-native-community/masked-view/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/@react-native-community/netinfo/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/@react-native-community/slider/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/lottie-react-native/src/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-account-manager/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-cardview/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-color-matrix-image-filters/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-config/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-contacts/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-date-picker/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-fast-image/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-fs/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-gesture-handler/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-headphone-detection/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-image-crop-picker/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-image-picker/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-image-size/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-immersive/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-linear-gradient/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-moengage/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-navigation-bar-color/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-orientation/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-radial-gradient/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-safe-area-context/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-screens/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-share/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-shared-element/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-sms-retriever/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-splash-screen/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-static-safe-area-insets/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-svg/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-text-detector/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-tus-client/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-version-check/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-version-number/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-video/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-webview/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/react-native-youtube/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/rn-fetch-blob/android" />
+            <option value="$PROJECT_DIR$/foxy_dynamic/node_modules/singular-react-native/android" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

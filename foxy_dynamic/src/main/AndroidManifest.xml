@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="com.pardeep.foxy_dynamic"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID"/>
+
+
+    <application android:hasCode="true" tools:replace="android:hasCode" >
+        <activity
+            android:name=".ModuleMainActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" android:exported="true"></activity>
+        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity"
+            tools:replace="android:theme"  android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+
+
+    </application>
+
+
+    <dist:module
+        dist:title="@string/title_foxy_dynamic">
+        <dist:delivery>
+            <dist:on-demand />
+        </dist:delivery>
+        <dist:fusing dist:include="true" />
+    </dist:module>
+</manifest>

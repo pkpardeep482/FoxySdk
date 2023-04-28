@@ -1,0 +1,14 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.name = "BaseApp"
+include ':app'
+include ':foxy_dynamic'
+
+apply from: file("./foxy_dynamic/node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':foxy_dynamic:foxy_native_module'

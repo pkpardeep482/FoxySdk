@@ -1,0 +1,48 @@
+
+î
+;
+android*http://schemas.android.com/apk/res/android,RelativeLayout"M
+*http://schemas.android.com/apk/res/android
+visibilitygone"(Ü„2:0"`
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"(ô„2:0ÿÿÿÿÿÿÿÿÿ"a
+*http://schemas.android.com/apk/res/androidlayout_heightmatch_parent"(õ„2:0ÿÿÿÿÿÿÿÿÿ*¢
+™TextView"Zstyle@style/ucrop_TextViewWidgetText"2,
+*£€°ğstyle/ucrop_TextViewWidgetText0ÿÿ"q
+*http://schemas.android.com/apk/res/androidid@+id/text_view_rotate"(Ğ„2
+İ€˜ğid/text_view_rotate0">
+*http://schemas.android.com/apk/res/androidtext100Â°(Ï‚„*±
+¨:com.yalantis.ucrop.view.widget.HorizontalProgressWheelView"…
+*http://schemas.android.com/apk/res/androidlayout_toEndOf@+id/wrapper_reset_rotate"(¸‡„2#
+!é€˜ğid/wrapper_reset_rotate0"{
+*http://schemas.android.com/apk/res/androidlayout_below@+id/text_view_rotate"(…ƒ„2
+İ€˜ğid/text_view_rotate0"
+*http://schemas.android.com/apk/res/androidlayout_toStartOf@+id/wrapper_rotate_by_angle"(·‡„2&
+$ê€˜ğid/wrapper_rotate_by_angle0"`
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"(ô„2:0ÿÿÿÿÿÿÿÿÿ"a
+*http://schemas.android.com/apk/res/androidlayout_heightmatch_parent"(õ„2:0ÿÿÿÿÿÿÿÿÿ"Œ
+*http://schemas.android.com/apk/res/androidlayout_toLeftOf@+id/wrapper_rotate_by_angle"(‚ƒ„2&
+$ê€˜ğid/wrapper_rotate_by_angle0"‡
+*http://schemas.android.com/apk/res/androidlayout_toRightOf@+id/wrapper_reset_rotate"(ƒƒ„2#
+!é€˜ğid/wrapper_reset_rotate0"w
+*http://schemas.android.com/apk/res/androidid@+id/rotate_scroll_wheel"(Ğ„2"
+ Õ€˜ğid/rotate_scroll_wheel0B*¹
+°FrameLayout"X
+*http://schemas.android.com/apk/res/androidlayout_centerVerticaltrue"(‘ƒ„2:@"\style @style/ucrop_WrapperRotateButton"2-
++¥€°ğstyle/ucrop_WrapperRotateButton0ÿÿ"y
+*http://schemas.android.com/apk/res/androidid@+id/wrapper_reset_rotate"(Ğ„2#
+!é€˜ğid/wrapper_reset_rotate0*í
+ä	ImageView"y
+*http://schemas.android.com/apk/res/androidsrc@drawable/ucrop_ic_reset" (™‚„2#
+!€”ğdrawable/ucrop_ic_reset0"\style @style/ucrop_ImageViewWidgetIcon" 2-
++¡€°ğstyle/ucrop_ImageViewWidgetIcon0ÿÿ 5.*õ
+ìFrameLayout"X
+*http://schemas.android.com/apk/res/androidlayout_centerVerticaltrue")(‘ƒ„2:@"X
+*http://schemas.android.com/apk/res/androidlayout_alignParentEndtrue")(¼‡„2:@"\style @style/ucrop_WrapperRotateButton")2-
++¥€°ğstyle/ucrop_WrapperRotateButton0ÿÿ"Z
+*http://schemas.android.com/apk/res/androidlayout_alignParentRighttrue")(ƒ„2:@"
+*http://schemas.android.com/apk/res/androidid@+id/wrapper_rotate_by_angle")(Ğ„2&
+$ê€˜ğid/wrapper_rotate_by_angle0*í
+ä	ImageView"y
+*http://schemas.android.com/apk/res/androidsrc@drawable/ucrop_ic_angle"-(™‚„2#
+!™€”ğdrawable/ucrop_ic_angle0"\style @style/ucrop_ImageViewWidgetIcon"-2-
++¡€°ğstyle/ucrop_ImageViewWidgetIcon0ÿÿ-5).,
